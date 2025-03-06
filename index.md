@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my photobooth
 ---
-
+I want to create a photobooth located wherever you are.
